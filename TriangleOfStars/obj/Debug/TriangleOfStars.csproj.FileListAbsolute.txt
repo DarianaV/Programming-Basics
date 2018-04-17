@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\ProgrammingBasics\TriangleOfStars\bin\Debug\TriangleOfStars.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\ProgrammingBasics\TriangleOfStars\bin\Debug\TriangleOfStars.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\ProgrammingBasics\TriangleOfStars\bin\Debug\TriangleOfStars.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\ProgrammingBasics\TriangleOfStars\obj\Debug\TriangleOfStars.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\ProgrammingBasics\TriangleOfStars\obj\Debug\TriangleOfStars.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\ProgrammingBasics\TriangleOfStars\obj\Debug\TriangleOfStars.pdb
